@@ -48,6 +48,8 @@ To get started with this project, follow these steps:
 - **Description**: Supports proximity queries, which require terms to occur within a specified proximity of each other.
 - **Functionality**: Utilizes the positional index to determine document matches based on proximity constraints.
 
+![image](https://github.com/Murad-pitafi/Boolean-Query-Process/assets/87450783/8500b592-f466-443d-81c1-f9bd8987a30b)
+
 ## Dependencies
 
 - Python 3.x
